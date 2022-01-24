@@ -7,7 +7,7 @@
 ## [𝗕𝗘𝗥𝗟𝗜𝗡 ༒ 𝗕𝗛𝗔𝗚𝗪𝗔𝗔𝗡](t.me/BHAGWAAN_5301)
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a7667fd76685907f87b31.jpg">
+  <img src="https://te.legra.ph/file/5ddf22a86ef57f5317cfa.jpg">
 </p>
 
 
