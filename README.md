@@ -30,7 +30,7 @@
 
 
 # <p align="center"> 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣
- <p align="center"> - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/BERLINGODSPAM) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+ <p align="center"> - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](t.me/BERLINGODSPAM) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 #<p align="center"> 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 𝗧𝗢 [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥](https://t.me/AGORASWAMY_PROFESSOR)
 
