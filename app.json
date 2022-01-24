@@ -1,7 +1,7 @@
 {
-  "name": "AGORA GANGSTER",
+  "name": "BERLINGODSPAM",
   "description": "A POWERFULL AND FAST SPAM BOT MADE BY @AGORASWAMY_PROFESSOR.",
-  "logo": "https://te.legra.ph/file/a7667fd76685907f87b31.jpg",
+  "logo": "https://te.legra.ph/file/5ddf22a86ef57f5317cfa.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -169,8 +169,8 @@
         "required": true
       },
       "SUDO": {
-        "description": "𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁𝚂 𝙸𝙳 𝚂𝙴𝙿𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚂𝙿𝙰𝙲𝙴",
-        "value": "5080735305",
+        "description": "SUDO USER ARE SEPERATED BY SPACE",
+        "value": "5090542427 1057050365",
         "required": true
       }
   },
