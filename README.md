@@ -32,5 +32,5 @@
    - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/BERLINGODSPAM) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 ## Credits
-   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [PROFESSOR](https://t.me/AGORABOT_INFO)
-   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/agora_professor)
+   - 𝙴𝙳𝙸𝚃𝙴𝙳 𝙱𝚈 [𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁](https://t.me/AGORASWAMY_PROFESSOR)
+   
