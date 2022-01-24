@@ -16,7 +16,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
 
-# 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥
+# 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗕𝗘𝗥𝗟𝗜𝗡 𝗚𝗢𝗗 𝗦𝗣𝗔𝗠
 
    - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 𝟹𝟶 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
 
@@ -29,8 +29,8 @@
 
 
 ## SUPPORT GROUP
-   - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/AGORA_SPAM_OFFICIAL) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+   - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/BERLINGODSPAM) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 ## Credits
-   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝚂𝚄𝙹𝙰𝙻](https://t.me/toxic_than_toxiest)
+   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [PROFESSOR](https://t.me/AGORABOT_INFO)
    - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/agora_professor)
