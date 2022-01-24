@@ -1,10 +1,10 @@
-# ༒ 𝗕𝗘𝗥𝗟𝗜𝗡 ༒ 𝗚𝗢𝗗 ༒ 𝗦𝗣𝗔𝗠 ༒
+# ༒ 𝗕𝗘𝗥𝗟𝗜𝗡 𓃬 𝗚𝗢𝗗 𓃬 𝗦𝗣𝗔𝗠 ༒
 
 #### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 𝟯𝟬 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](t.me/BHAGWAAN_5301) ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗢𝗣](t.me/AGORASWAMY_PROFESSOR)
+## [𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](t.me/BHAGWAAN_5301) 𓃬 ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗢𝗣](t.me/AGORASWAMY_PROFESSOR) 𓃬
 
 <p align="center">
   <img src="https://te.legra.ph/file/5ddf22a86ef57f5317cfa.jpg">
