@@ -10,8 +10,6 @@
   <img src="https://te.legra.ph/file/5ddf22a86ef57f5317cfa.jpg">
 </p>
 
-
-
 # <p align="center"> 🚀 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨 💰
 
 # <p align="center">  𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗨𝗥𝗣𝗟𝗘 𝗕𝗨𝗧𝗧𝗢𝗡
