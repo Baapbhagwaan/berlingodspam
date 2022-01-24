@@ -4,7 +4,7 @@
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](t.me/BHAGWAAN_5301) 𓃬 ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗢𝗣](t.me/AGORASWAMY_PROFESSOR) 𓃬
+#  [𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](t.me/BHAGWAAN_5301) 𓃬 ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗢𝗣](t.me/AGORASWAMY_PROFESSOR) 𓃬
 
 <p align="center">
   <img src="https://te.legra.ph/file/5ddf22a86ef57f5317cfa.jpg">
