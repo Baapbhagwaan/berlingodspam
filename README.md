@@ -4,7 +4,7 @@
 ### <p align="center"> SUDO HANDLER 
 ### <p align="center"> * plugins like (*ping), 
 ### <p align="center"> * spam (*bigspam) , (*raid) ,(*replyraid) and more
-# <p align="center"> [𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](t.me/BHAGWAAN_5301) 𓃬 ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗢𝗣](t.me/AGORASWAMY_PROFESSOR) 𓃬
+# <p align="center"> [𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](t.me/BHAGWAAN_5301) ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗢𝗣](t.me/AGORASWAMY_PROFESSOR)
 
 <p align="center">
   <img src="https://te.legra.ph/file/5ddf22a86ef57f5317cfa.jpg">
