@@ -1,7 +1,7 @@
 # <p align="center"> ༒ 𝗕𝗘𝗥𝗟𝗜𝗡 ♛︎ 𝗚𝗢𝗗 ♛︎ 𝗦𝗣𝗔𝗠 ༒
 
 ### <p align="center"> 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 𝟯𝟬 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
-### <p align="center"> SUDO HANDLER 
+### <p align="center"> SUDO HANDLER [ • ]
 ### <p align="center"> . plugins like (.ping), 
 ### <p align="center"> . spam (.bigspam) , (.raid) ,(.replyraid) and more
 # <p align="center"> [𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](t.me/BHAGWAAN_5301) ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗢𝗣](t.me/AGORASWAMY_PROFESSOR)
